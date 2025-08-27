@@ -1,3 +1,4 @@
+
 # BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
 
 <div align="center">
@@ -224,3 +225,6 @@ $ python3 boxmot/appearance/reid_export.py --include engine --device 0 --dynamic
 
 For BoxMOT bugs and feature requests please visit [GitHub Issues](https://github.com/mikel-brostrom/boxmot/issues).
 For business inquiries or professional support requests please send an email to: box-mot@outlook.com
+=======
+# real-time-object-detection
+>>>>>>> a34dcea4ca17af294b2dbd0608503bde0faeb708
