@@ -1,6 +1,5 @@
 
-# BoxMOT: pluggable SOTA tracking modules for segmentation, object detection and pose estimation models
-
+# Real-time Object detection
 <div align="center">
   <p>
   <img src="https://github.com/mikel-brostrom/boxmot/releases/download/v12.0.0/output_640.gif" width="400"/>
